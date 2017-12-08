@@ -6,4 +6,4 @@ cd linux-cli
 cd getposter
 pip install -U --user .
 getposter ALOHA!
-สามารถ ดึงรูปจาก poster ภาพยนตร์เรื่องต่างๆได้จาก Web
+สามารถ ดึงรูปภาพ poster ภาพต่างๆได้จาก Web ที่ต้องการได้

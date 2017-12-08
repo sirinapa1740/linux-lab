@@ -1,21 +1,10 @@
-# sirinapa1740
+# พิมพ์คำสั่งใน Terminal
 
-My Tool does one thing, and one thing well.
-
-
-# Installation
-
-If you don't use `pipsi`, you're missing out.
-Here are [installation instructions](https://github.com/mitsuhiko/pipsi#readme).
-
-Simply run:
-
-    $ pipsi install .
-
-
-# Usage
-
-To use it:
-
-    $ sirinapa1740 --help
-
+- git clone https://github.com/sirinapa1740/linux-lab.git
+- cd linux-lab
+- cd linux-cli
+- cd getposter
+- pip install -U --user .
+- getposter ALOHA!
+#สามารถ 
+- ดึงรูปภาพ poster ภาพต่างๆได้จาก Web ที่ต้องการได้
