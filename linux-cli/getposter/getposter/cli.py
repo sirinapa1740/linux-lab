@@ -54,7 +54,7 @@ def getHTML(url):
 def getURL(input):
 	try:
 		if input[0] == 't' and input[1] == 't':
-			html = getHTML('http://art2click.com/th/'+input+'/')
+			html = getHTML('http://www.77poster.com/th/'+input+'/')
 			
 		else:
 			html = getHTML('https://www.google.co.in/search?q='+input)
